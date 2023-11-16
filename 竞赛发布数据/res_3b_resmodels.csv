@@ -1,0 +1,6 @@
+,learner,mse,mae,msape,micro,macro
+0,MLPRegressor,4.19,1.6,80.85,0.17,0.13
+0,XGBoost,2.79,1.26,61.4,0.26,0.18
+0,RandomForest,2.53,1.23,55.41,0.27,0.19
+0,BayesianRidge,2.3,1.15,60.04,0.27,0.21
+0,ElasticNet,2.77,1.29,61.28,0.27,0.13
